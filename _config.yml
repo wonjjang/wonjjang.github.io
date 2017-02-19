@@ -74,11 +74,10 @@ gems: jekyll-paginate
 
 # Exclude these files from your production _site
 exclude:
--README.md
--Gemfile.lock
--Gemfile
--Rakefile
--CNAME
--LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
 
 paginate: 10
