@@ -73,6 +73,12 @@ kramdown:
 gems: jekyll-paginate
 
 # Exclude these files from your production _site
-exclude:['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile','CNAME','LICENSE']
+exclude:
+-README.md
+-Gemfile.lock
+-Gemfile
+-Rakefile
+-CNAME
+-LICENSE
 
 paginate: 10
