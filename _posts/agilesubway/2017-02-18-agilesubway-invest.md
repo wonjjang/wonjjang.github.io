@@ -2,7 +2,7 @@
 layout: post
 title:  "INVEST"
 date:   2017-02-19 14:04:00
-category: agile
+category: agilesubway
 ---
 
 # 정의
