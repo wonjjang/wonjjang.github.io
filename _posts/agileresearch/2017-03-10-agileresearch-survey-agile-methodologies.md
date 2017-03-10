@@ -5,7 +5,6 @@ date:   2017-03-10 18:26:00
 category: agileresearch
 ---
 
-[A Survey of Agile Development Methodologies](http://agile.csc.ncsu.edu/SEMaterials/AgileMethods.pdf)
 
 ## 플랜 주도 방법론(Plan-driven methods)
 * 최대한 요구사항을 자세히 작성하고 그것을 기준으로 plan을 작성한다.
@@ -64,4 +63,4 @@ category: agileresearch
 
 
 ## Reference
-- [A Survey of Agile Development Methodologies](http://agile.csc.ncsu.edu/SEMaterials/AgileMethods.pdf)
+- [A Survey of Agile Development Methodologies 다운로드](http://agile.csc.ncsu.edu/SEMaterials/AgileMethods.pdf)
