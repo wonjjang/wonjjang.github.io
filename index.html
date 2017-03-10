@@ -5,20 +5,19 @@ title: Home
 
 <div class="posts">
 	{% for post in paginator.posts %}
-	<div style="margin-bottom: 2em;">
+	<div style="margin-bottom: 3em;">
 
-    <div>
-      <span><h2> [ {{ post.categories }} ]</h2></span>
-      <span class="post-date">{{ post.date | date_to_string }}</span>
-    </div>
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span><h2> [ {{ post.categories }} ]</h2></span>
 
     <h1 class="post-title">
-			<a href="{{ site.baseurl }}/{{ post.url }}">
-				{{ post.title }}
-			</a>
-		</h1>
+      <a href="{{ site.baseurl }}/{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
 	</div>
+
 	{% endfor %}
 </div>
 
