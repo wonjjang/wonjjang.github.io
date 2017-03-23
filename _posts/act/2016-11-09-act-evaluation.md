@@ -5,7 +5,7 @@ date:   2016-11-09 12:00:00
 category: act
 ---
 
-# 진행 방식
+## 진행 방식
 1. 논문하나를 잡고 진행한다.
     1. https://www.wmich.edu/sites/default/files/attachments/u350/2014/guidelines_cdc.pdf 
         * This paper is intended to provide practical guidance to persons desiring to develop a checklist as a tool for evaluating in a particular area.
@@ -17,12 +17,12 @@ category: act
     5. Evaluation values and criteria ( 8편 )
     6. Metaevaluation ( 7편 )
 
-# 논문들의 주요 목적
+## 논문들의 주요 목적
 * 평가를 위한 체크리스트를 만들기 위한 방법론
 * 만들어진 체크리스트 평가하기 위한 체크리스트를 만드는 방법론
 * 특정 도메인에 대한 체크리스트 ( case study )
 
-# 논문 내용
+## 논문 내용
 * A Checklist for Evaluating K-12 Assessment Programs
     * 학생의 학업 성취도를 측정하기 위한 체크리스트
 * Research and Development Centers Checklist
@@ -37,7 +37,7 @@ category: act
     * 메타평가자들이 Principle 을 실제 상황에 적용하기 위한 툴을 제공
 
 
-# 측정 및 평가 
+## 측정 및 평가 
 * 측정 및 평가 Process 에 대해 조사한다.
 * 이론 논문을 먼저 읽는다.
     * GUIDELINES FOR DEVELOPING EVALUATION CHECKLISTS: THE CHECKLISTS DEVELOPMENT CHECKLIST (CDC)
@@ -45,5 +45,5 @@ category: act
 * 특정 도메인을 선정하고 이에 대한 케이스 스터디 논문을 찾아서 읽는다.
     * A Checklist for Evaluating K-12 Assessment Programs
 
-# 기타
+## 기타
 * http://betterevaluation.org/en/plan/approach/case_study
