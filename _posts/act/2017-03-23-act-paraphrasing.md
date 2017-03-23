@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "패러 프레이징"
+title:  "퍼실리테이션 - 패러 프레이징"
 date:   2017-03-23 12:00:00
 category: act
 ---

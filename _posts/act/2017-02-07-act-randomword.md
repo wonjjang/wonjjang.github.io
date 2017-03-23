@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "랜덤워드 브레인스토밍"
+title:  "퍼실리테이션 - 랜덤워드 브레인스토밍"
 date:   2017-02-07 12:00:00
 category: act
 ---
