@@ -36,7 +36,7 @@ category: agileresearch
 <img src="/images/agileresearch/checkinhat.jpg"/>
 
 
-## 눈먼 초상화 ( Blind portraits ) https://medium.com/foursquare-direct/a-list-of-creative-exercises-for-creative-teams-c43b36f9dbde
+## [눈먼 초상화](https://medium.com/foursquare-direct/a-list-of-creative-exercises-for-creative-teams-c43b36f9dbde)
 * 목적 : 창의적인 생각을 깨워줌
 * 방법
     * 모든 사람들이 두 사람씩 팀을 이룬다.
@@ -45,7 +45,7 @@ category: agileresearch
 <img src="/images/agileresearch/blindportraits.png"/>
 
 
-## 사무실 물체에 새로운 인터페이스 그리기 https://medium.com/foursquare-direct/a-list-of-creative-exercises-for-creative-teams-c43b36f9dbde
+## [사무실 물체에 새로운 인터페이스 그리기](https://medium.com/foursquare-direct/a-list-of-creative-exercises-for-creative-teams-c43b36f9dbde)
 * 목적 : 창의적인 생각을 깨워줌
 * 방법
     * 사무실에 있는 것중에서 하나의 사물에 대한 사진을 출력한다. (책상, 의자, 쓰레기통 등등)
@@ -55,7 +55,7 @@ category: agileresearch
 <img src="/images/agileresearch/newinterface.jpeg"/>
 
 
-## ESVP http://www.funretrospectives.com/esvp-explorer-shopper-vacationer-prisoner/
+## [ESVP](http://www.funretrospectives.com/esvp-explorer-shopper-vacationer-prisoner)
 * 목적 : 참여자의 참여도 측정 목적
 * 방법
     * 자신의 상태를 4가지 분류 중 어떤 것인지 투표한다. (무기명)
