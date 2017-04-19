@@ -55,3 +55,8 @@ category: agileresearch
 
 ## Reference
 - [반영조직](http://www.yes24.com/24/goods/30663390?scode=032&OzSrank=1)
+- [쿠퍼실리테이션](http://www.koofacilitation.kr)
+- [인피플컨설팅](http://www.inpeople.co.kr/html/index)
+- [ORP 연구소](http://www.orp.co.kr)
+
+
