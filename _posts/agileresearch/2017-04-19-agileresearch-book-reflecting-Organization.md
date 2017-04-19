@@ -26,6 +26,10 @@ category: agileresearch
 > 결과적으로 조직에 더 효과적일 것
 
 
+## 조직에서 리더와 구성원
+<img src="/images/agileresearch/reflectingOrgreader.png"/>
+
+
 ## 반영의 사다리에 대한 설명
 > 의지(Intend) : 타인과의 협력으로 어떤 성취를 하고자 하는 마음을 가짐
 > 표현(Express) : 의지를 외부로 나타냄
