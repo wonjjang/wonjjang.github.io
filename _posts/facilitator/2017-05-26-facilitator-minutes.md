@@ -62,6 +62,5 @@ category: agileresearch
 * Ground Rule
 
 <img src="/images/facilitator/ft_20170526_1.jpg"/>
-<img src="/images/facilitator/ft_20170526_2.jpg"/>
 <img src="/images/facilitator/ft_20170526_3.jpg"/>
 <img src="/images/facilitator/ft_20170526_4.jpg"/>
