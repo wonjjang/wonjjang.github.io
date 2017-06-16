@@ -34,6 +34,7 @@ Barry Overeem의 [사용자 스토리 매핑 게임](http://www.barryovereem.com
 
 ## 결과물
 * 결과로는 작업이 포함된 4개의 가로행이 나타납니다. 기본적으로 4개의 다른 릴리스가 생긴것이고, 맨 위 행에 Minimal Viable Product(최소 실행 가능 제품)으로 작성됩니다.
+<img src="/images/agileresearch/userstorymapping.png"/>
 
 ## 교육 교훈
 * 모든 작업들을 메모을 이용하여 시각화하면, 모든 다른 작업들이 연결되면서 투명한 개요가 생성됩니다.
