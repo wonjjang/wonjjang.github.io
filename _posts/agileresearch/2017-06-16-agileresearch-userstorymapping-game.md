@@ -42,7 +42,7 @@ Barry Overeem의 [사용자 스토리 매핑 게임](http://www.barryovereem.com
 
 ## 게임 진행 예시
 큰 그룹이있을 때 그룹을 5-7 명의 두 팀으로 나눠서 동시에 이 과정을 진행합니다. 그러면 아래 사진과 같은 모습이 이뤄집니다.
-<img src="/images/agileresearch/examplesofthegame.jpg"/>
+<img src="/images/agileresearch/examplesofthegame.png"/>
 
 
 ## 다른 활용 방법
